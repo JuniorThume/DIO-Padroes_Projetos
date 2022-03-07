@@ -1,2 +1,7 @@
-# DIO-Padroes_Projetos
-Demonstrações na prática da utilização de padrões em desenvolvimento de projetos!
+
+# Explorando Padrões de Projetos na Prática com Java
+
+Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java puro:
+- Singleton
+- Strategy
+- Facade
